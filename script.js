@@ -3,7 +3,6 @@ const stenbtn = document.querySelector('#sten');
 const saxbtn = document.querySelector('#sax');
 const papperbtn = document.querySelector('#papper');
 
-
 let input = document.querySelector('input');
 let userName = document.querySelector('#userName');
 let userVal = document.querySelector('#userVal');
